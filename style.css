@@ -1,13 +1,17 @@
-h1{
+.head.h1{
 	color:red;
 	text-align: center;
-	background-color:green;
+	background-color:blue;
 }
 h2{
-	color:green;
+	color:red;
+	width: 200px;
+	padding: 5px;
+	border: 5px solid black;
+	background-color:green;
 }
-body { 
+body.h1 { 
 	background-color: lightblue;
-	
 }
+
 
